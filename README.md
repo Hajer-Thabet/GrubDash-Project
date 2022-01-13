@@ -7,7 +7,16 @@ so that the frontend developers can demo some initial design ideas for the big b
 
 ## Tools used:
 
-• Node.js  
-• Express  
-• JavaScript
+   • Node.js  
+   • Express  
+   • JavaScript
+ 
+## Learning objectives
+
+   • Running tests from the command line
+   • Using common middleware packages
+   • Receiving requests through routes
+   • Accessing relevant information through route parameters
+   • Building an API following RESTful design principles
+   • Writing custom middleware functions
 
