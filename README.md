@@ -7,7 +7,7 @@ so that the frontend developers can demo some initial design ideas for the big b
 
 ## Tools used:
 
-• Node.js 
+• Node.js  
 • Express
 • JavaScript
 
