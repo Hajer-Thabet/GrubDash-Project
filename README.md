@@ -13,7 +13,7 @@ so that the frontend developers can demo some initial design ideas for the big b
  
 ## Learning objectives
 
-    • Running tests from the command line  
+    • Running tests from the command line 
     • Using common middleware packages  
     • Receiving requests through routes  
     • Accessing relevant information through route parameters  
