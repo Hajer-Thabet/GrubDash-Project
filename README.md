@@ -8,6 +8,6 @@ so that the frontend developers can demo some initial design ideas for the big b
 ## Tools used:
 
 • Node.js  
-• Express
+• Express  
 • JavaScript
 
